@@ -10,5 +10,5 @@ version          "1.0.4"
   supports os
 end
 
-depends "cloudfoundry", "~> 1.2.0"
+depends "cloudfoundry"
 depends "rbenv"
